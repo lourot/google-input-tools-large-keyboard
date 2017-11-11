@@ -1,1 +1,3 @@
-curl -o "icon.png" "https://png.icons8.com/?id=9747&size=280"
+for size in 128 280; do
+  curl -o "icon$size.png" "https://png.icons8.com/?id=9747&size=$size"
+done

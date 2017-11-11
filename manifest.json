@@ -4,13 +4,14 @@
   "name": "Large keyboard size for Google Input Tools",
   "short_name": "Big keyboard",
   "description": "Large font size for Google Input Tools' keyboard.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "icons": {
-    "240": "thirdparty/icon.png"
+    "128": "thirdparty/icon128.png",
+    "280": "thirdparty/icon280.png"
   },
 
   "browser_action": {
-    "default_icon": "thirdparty/icon.png"
+    "default_icon": "thirdparty/icon280.png"
   },
   "content_scripts": [
     {

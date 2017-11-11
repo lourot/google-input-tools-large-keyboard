@@ -1,4 +1,4 @@
-[<img src="https://rawgit.com/AurelienLourot/google-input-tools-large-keyboard/master/thirdparty/icon.png" align="right" width="70" height="70">](https://github.com/AurelienLourot/google-input-tools-large-keyboard)
+[<img src="https://rawgit.com/AurelienLourot/google-input-tools-large-keyboard/master/thirdparty/icon280.png" align="right" width="70" height="70">](https://github.com/AurelienLourot/google-input-tools-large-keyboard)
 
 # Why?
 
