@@ -1,0 +1,33 @@
+.vk-box {
+  font-size: 26px !important;
+}
+
+.vk-btn {
+  font-size: inherit;
+  height: 1.5em !important;
+  width: 1.5em !important;
+}
+
+#K8, #K20 {
+  width: 3em !important;
+}
+
+#K9, #K220 {
+  width: 2.25em !important;
+}
+
+#K16 {
+  width: 3.9em !important;
+}
+
+#K273 {
+  width: 4.6em !important;
+}
+
+#K32 {
+  width: 15em !important;
+}
+
+.vk-cap {
+  font-size: inherit !important;
+}
