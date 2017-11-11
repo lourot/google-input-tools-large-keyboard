@@ -1,10 +1,10 @@
 {
   "manifest_version": 2,
 
-  "name": "Large keyboard size for Google Input Tools",
+  "name": "Large keyboard for Google Input Tools",
   "short_name": "Big keyboard",
   "description": "Large font size for Google Input Tools' keyboard.",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "icons": {
     "128": "thirdparty/icon128.png",
     "280": "thirdparty/icon280.png"
