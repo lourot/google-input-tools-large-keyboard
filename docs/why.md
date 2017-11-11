@@ -38,3 +38,4 @@ Variations of these queries have been made on Google, Reddit, GitHub and the Chr
 * (chrome) on-screen keyboard
 * awesome virtual keyboard
 * awesome on-screen keyboard
+* arabic chrome keyboard
