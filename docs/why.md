@@ -8,4 +8,4 @@ and the Chrome virtual/on-screen keyboard
 is also affected. Unfortunately it's not open-source. Thus this Chrome extension on top of it to
 make it readable.
 
-[How to get it?](install.md)
+[How to get it?](../README.md#how-to-get-it)

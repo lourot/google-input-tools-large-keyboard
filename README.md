@@ -12,5 +12,9 @@ Without :sob:
 
 ![ ](docs/assets/blank.png)![ ](docs/assets/blank.png)![unreadable](docs/assets/without.png)
 
-* [Why this?](docs/why.md)
-* [How to get it?](docs/install.md)
+[Why this?](docs/why.md)
+
+## How to get it?
+
+* Install [Google Input Tools](https://chrome.google.com/webstore/detail/google-input-tools/mclkkofklkfljcocdinagocijmpgbhab).
+* Install this Chrome extension.
