@@ -1,4 +1,4 @@
-[<img src="https://rawgit.com/AurelienLourot/google-input-tools-large-keyboard/master/thirdparty/icon280.png" align="right" width="70" height="70">](https://github.com/AurelienLourot/google-input-tools-large-keyboard)
+[<img src="https://rawgit.com/AurelienLourot/google-input-tools-large-keyboard/master/thirdparty/icon280.png" align="right" width="70" height="70">](https://chrome.google.com/webstore/detail/large-keyboard-for-google/gjhnbhjegnfhehpjhkajgfbkcbpmomoh)
 
 # Google Input Tools: large keyboard
 
@@ -17,4 +17,4 @@ Without :sob:
 ## How to get it?
 
 * Install [Google Input Tools](https://chrome.google.com/webstore/detail/google-input-tools/mclkkofklkfljcocdinagocijmpgbhab).
-* Install this Chrome extension.
+* Install [this Chrome extension](https://chrome.google.com/webstore/detail/large-keyboard-for-google/gjhnbhjegnfhehpjhkajgfbkcbpmomoh).
