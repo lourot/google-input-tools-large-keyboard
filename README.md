@@ -1,3 +1,6 @@
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/users/gjhnbhjegnfhehpjhkajgfbkcbpmomoh.svg)](https://chrome.google.com/webstore/detail/large-keyboard-for-google/gjhnbhjegnfhehpjhkajgfbkcbpmomoh)
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/stars/gjhnbhjegnfhehpjhkajgfbkcbpmomoh.svg)](https://chrome.google.com/webstore/detail/large-keyboard-for-google/gjhnbhjegnfhehpjhkajgfbkcbpmomoh)
+
 [<img src="https://rawgit.com/AurelienLourot/google-input-tools-large-keyboard/master/thirdparty/icon280.png" align="right" width="70" height="70">](https://chrome.google.com/webstore/detail/large-keyboard-for-google/gjhnbhjegnfhehpjhkajgfbkcbpmomoh)
 
 # Google Input Tools: large keyboard
