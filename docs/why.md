@@ -28,7 +28,7 @@ Web Store:
 * how to change font style in google input tools
 * google input tools arabic
 
-### For increasing Google Input Tools' size
+### For alternative virtual keyboards
 
 Variations of these queries have been made on Google, Reddit, GitHub and the Chrome Web Store:
 

@@ -28,6 +28,8 @@ $ wget https://github.com/AurelienLourot/google-input-tools-large-keyboard/archi
 ### Detailed description
 
 ```
+This extension makes "Google Input Tools"'s keyboard larger. Nothing more, nothing less.
+
 Google Input Tools' virtual/on-screen keyboard is often too small. Install this extension to make it readable. This is especially useful for the Arabic virtual keyboard layout.
 
 Make sure you have also installed Google Input Tools:
@@ -38,9 +40,10 @@ https://chrome.google.com/webstore/detail/google-input-tools/mclkkofklkfljcocdin
 
 [assets/storeIcon.png](assets/storeIcon.png)
 
-### Screenshot
+### Screenshots
 
-[assets/screenshot.png](assets/screenshot.png)
+* [assets/screenshot.png](assets/screenshot.png)
+* [assets/screenshot2.png](assets/screenshot2.png)
 
 ### Small promotional tile
 
