@@ -1,6 +1,3 @@
-> **WARNING**: Google took the extension down from the Web Store, see
-> [#1](https://github.com/AurelienLourot/google-input-tools-large-keyboard/issues/1).
-
 [![Chrome Web Store](thirdparty/badges/users.svg)](https://chrome.google.com/webstore/detail/large-keyboard-for-google/gjhnbhjegnfhehpjhkajgfbkcbpmomoh)
 [![Chrome Web Store](thirdparty/badges/rating.svg)](https://chrome.google.com/webstore/detail/large-keyboard-for-google/gjhnbhjegnfhehpjhkajgfbkcbpmomoh)
 

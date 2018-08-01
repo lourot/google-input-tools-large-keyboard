@@ -1,10 +1,10 @@
 {
   "manifest_version": 2,
 
-  "name": "Make Input Tools' keyboard larger",
-  "short_name": "Big keyboard",
+  "name": "Input Tools' Keyboard Enlarger",
+  "short_name": "Keyboard Enlarger",
   "description": "This extension makes Input Tools' keyboard larger. Nothing more, nothing less.",
-  "version": "0.0.8",
+  "version": "0.1.0",
   "icons": {
     "128": "thirdparty/icon128.png",
     "280": "thirdparty/icon280.png"

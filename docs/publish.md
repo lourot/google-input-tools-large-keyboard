@@ -2,7 +2,7 @@
 
 ```
 $ cd ../
-$ export version=0.0.1
+$ export version=7.8.9
 $ sed -i "s/  \"version\": \".*\",/  \"version\": \"$version\",/g" manifest.json
 $ git commit -am $version
 $ git push
