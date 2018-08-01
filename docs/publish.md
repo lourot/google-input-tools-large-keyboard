@@ -14,7 +14,9 @@ $ git push --tags
 [on GitHub](https://github.com/AurelienLourot/google-input-tools-large-keyboard/releases).
 
 ```
-$ wget https://github.com/AurelienLourot/google-input-tools-large-keyboard/archive/$version.zip
+$ ./build.sh
+...
+dist/extension.zip created.
 ```
 
 ## On the [Chrome Developer Dashboard](https://chrome.google.com/webstore/developer/dashboard)
