@@ -4,7 +4,7 @@
   "name": "Make Input Tools' keyboard larger",
   "short_name": "Big keyboard",
   "description": "This extension makes Input Tools' keyboard larger. Nothing more, nothing less.",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "icons": {
     "128": "thirdparty/icon128.png",
     "280": "thirdparty/icon280.png"
