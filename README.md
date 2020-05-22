@@ -1,3 +1,5 @@
+> **WARNING**: not maintained anymore
+
 [![Chrome Web Store](thirdparty/badges/users.svg)](https://chrome.google.com/webstore/detail/large-keyboard-for-google/gjhnbhjegnfhehpjhkajgfbkcbpmomoh)
 [![Chrome Web Store](thirdparty/badges/rating.svg)](https://chrome.google.com/webstore/detail/large-keyboard-for-google/gjhnbhjegnfhehpjhkajgfbkcbpmomoh)
 
