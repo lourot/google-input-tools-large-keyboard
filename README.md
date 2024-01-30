@@ -1,5 +1,3 @@
-> **WARNING**: not maintained anymore
-
 [![Chrome Web Store](thirdparty/badges/users.svg)](https://chrome.google.com/webstore/detail/large-keyboard-for-google/gjhnbhjegnfhehpjhkajgfbkcbpmomoh)
 [![Chrome Web Store](thirdparty/badges/rating.svg)](https://chrome.google.com/webstore/detail/large-keyboard-for-google/gjhnbhjegnfhehpjhkajgfbkcbpmomoh)
 
@@ -7,7 +5,7 @@
 
 # Google Input Tools: large keyboard
 
-*Large font size for Google Input Tools' keyboard.*
+_Large font size for Google Input Tools' keyboard._
 
 **With this Chrome extension :+1:**
 
@@ -21,5 +19,5 @@ Without :sob:
 
 ## How to get it?
 
-* Install [Google Input Tools](https://chrome.google.com/webstore/detail/google-input-tools/mclkkofklkfljcocdinagocijmpgbhab).
-* Install [this Chrome extension](https://chrome.google.com/webstore/detail/large-keyboard-for-google/gjhnbhjegnfhehpjhkajgfbkcbpmomoh).
+- Install [Google Input Tools](https://chrome.google.com/webstore/detail/google-input-tools/mclkkofklkfljcocdinagocijmpgbhab).
+- Install [this Chrome extension](https://chrome.google.com/webstore/detail/large-keyboard-for-google/gjhnbhjegnfhehpjhkajgfbkcbpmomoh).
