@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 set -e
 
 for size in 128 280; do

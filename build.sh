@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 set -e
 
 build_output=dist
