@@ -1,6 +1,5 @@
 {
-  "manifest_version": 2,
-
+  "manifest_version": 3,
   "name": "Input Tools' Keyboard Enlarger",
   "short_name": "Keyboard Enlarger",
   "description": "This extension makes Input Tools' keyboard larger. Nothing more, nothing less.",
@@ -9,17 +8,21 @@
     "128": "thirdparty/icon128.png",
     "280": "thirdparty/icon280.png"
   },
-
-  "browser_action": {
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "match_about_blank": true,
+      "all_frames": true,
+      "css": [
+        "style.css"
+      ]
+    }
+  ],
+  "action": {
     "default_icon": "thirdparty/icon280.png",
     "default_popup": "popup.html"
   },
-  "content_scripts": [
-    {
-      "matches": ["<all_urls>"],
-      "match_about_blank": true,
-      "all_frames": true,
-      "css": ["style.css"]
-    }
-  ]
+  "content_security_policy": {}
 }
