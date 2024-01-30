@@ -1,13 +1,13 @@
 # Publishing a new version
 
-```
-$ cd ../
-$ export version=7.8.9
-$ sed -i "s/  \"version\": \".*\",/  \"version\": \"$version\",/g" manifest.json
-$ git commit -am $version
-$ git push
-$ git tag $version
-$ git push --tags
+```bash
+cd ../
+export version=7.8.9
+sed -i "s/  \"version\": \".*\",/  \"version\": \"$version\",/g" manifest.json
+git commit -am $version
+git push
+git tag $version
+git push --tags
 ```
 
 `Draft a new release`
@@ -44,8 +44,8 @@ https://chrome.google.com/webstore/detail/google-input-tools/mclkkofklkfljcocdin
 
 ### Screenshots
 
-* [assets/screenshot.png](assets/screenshot.png)
-* [assets/screenshot2.png](assets/screenshot2.png)
+- [assets/screenshot.png](assets/screenshot.png)
+- [assets/screenshot2.png](assets/screenshot2.png)
 
 ### Small promotional tile
 
