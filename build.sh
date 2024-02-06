@@ -6,7 +6,7 @@ build_output=dist
 rm -rf "$build_output"
 unzipped_output_dirname=extension
 unzipped_output="$build_output/$unzipped_output_dirname"
-for file in LICENSE manifest.json popup.html popup.js README.md style.css thirdparty/icon128.png thirdparty/icon280.png; do
+for file in LICENSE manifest.json popup.html *.js README.md style.css thirdparty/icon128.png thirdparty/icon280.png; do
   mkdir -p "$unzipped_output/$(dirname $file)"
   cp "$file" "$unzipped_output/$file"
 done

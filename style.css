@@ -8,11 +8,13 @@
   width: 1.5em !important;
 }
 
-#K8, #K20 {
+#K8,
+#K20 {
   width: 3em !important;
 }
 
-#K9, #K220 {
+#K9,
+#K220 {
   width: 2.25em !important;
 }
 
@@ -30,4 +32,13 @@
 
 .vk-cap {
   font-size: inherit !important;
+}
+
+.largeKbdSupportLink-7aLYVpEoK4 {
+  font-size: 0.6em;
+  vertical-align: 0.25em;
+  margin-left: 0.2em;
+  color: rgb(3 105 161);
+  display: inline-block;
+  direction: ltr;
 }
